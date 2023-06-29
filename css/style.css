@@ -1,0 +1,56 @@
+body {
+  width: 700px;
+  height: 0 auto;
+  margin: 0 auto;
+  padding-top: 50px;
+  position: relative;
+  font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+.profile {
+  padding: 50px;
+  text-align: center;
+  position: relative;
+  color: whitesmoke;
+}
+
+.profile-item img {
+  width: 250px;
+  height: auto;
+  border-radius: 50%;
+  border: 1px double whitesmoke;
+  cursor: pointer;
+}
+
+.profile-item svg {
+  position: absolute;
+  top: 5%;
+  right: 5%;
+  width: 20px;
+  height: auto;
+}
+
+.profile-item a {
+  color: whitesmoke;
+}
+
+input {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.profile-item .second-vw-profile {
+  border: none;
+  outline: none;
+}
+
+.back-icon {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  width: 20px;
+  height: auto;
+}
